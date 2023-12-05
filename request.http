@@ -1,0 +1,11 @@
+#### тестовое
+
+POST http://127.0.0.1:8000/payment/cash_machine
+Content-Type: application/json; charset=utf-8
+
+{
+	"items": [1, 2, 3]
+}
+######
+GET http://127.0.0.1:8000/payment/media/receipt.pdf
+

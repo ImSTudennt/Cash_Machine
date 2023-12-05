@@ -1,0 +1,6 @@
+djangorestframework
+psycopg2-binary
+requests
+pdfkit 
+qrcode
+python-dotenv
